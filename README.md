@@ -1,6 +1,5 @@
 # Internship_JamesAllen
 
-# Polytechnique-Internship
 James Allen, 2019
 
 Code Credit (Functions):\
